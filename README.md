@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 💻 Passionate about **Web Development & Open Source**
 - 🔭 Currently working on **personal & collaborative projects**
 - 🌱 Learning **system design**
 - ⚡ Fun fact: *I break things just to fix them better*
