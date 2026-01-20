@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header -->
 <h1 align="center">Hey, I'm Rey 👋</h1>
-<h3 align="center">Full Stack Developer | Tech Enthusiast | Open Source Lover</h3>
+<h3 align="center">Programmer | Tech Enthusiast | Video/Photo editor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+cool+stuff+with+code;Learning+something+new+everyday;Turning+ideas+into+reality" />
