@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💻 Passionate about **Web Development & Open Source**
 - 🔭 Currently working on **personal & collaborative projects**
-- 🌱 Learning **advanced backend & system design**
+- 🌱 Learning **system design**
 - ⚡ Fun fact: *I break things just to fix them better*
 
 ---
@@ -39,12 +39,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3)
 
 ### ⚙️ Frameworks & Tools
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode)
 
 ---
